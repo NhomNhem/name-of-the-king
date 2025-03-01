@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
+<<<<<<< HEAD
   tags: []
+=======
+  tags:
+  - Ground
+>>>>>>> origin/master
   layers:
   - Default
   - TransparentFX
@@ -41,6 +46,7 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+<<<<<<< HEAD
   - name: Background
     uniqueID: 213334189
     locked: 0
@@ -56,5 +62,7 @@ TagManager:
   - name: Player
     uniqueID: 2382726537
     locked: 0
+=======
+>>>>>>> origin/master
   m_RenderingLayers:
   - Default
